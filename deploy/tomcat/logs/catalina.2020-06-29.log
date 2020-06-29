@@ -1,0 +1,39 @@
+29-Jun-2020 11:09:45.133 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/george/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+29-Jun-2020 11:09:45.599 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Jun-2020 11:09:45.649 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+29-Jun-2020 11:09:45.654 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [890] milliseconds
+29-Jun-2020 11:09:45.741 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Jun-2020 11:09:45.742 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.27]
+29-Jun-2020 11:09:45.757 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app]
+29-Jun-2020 11:09:54.945 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app] has finished in [9 187] ms
+29-Jun-2020 11:09:54.946 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app-core]
+29-Jun-2020 11:10:05.219 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app-core] has finished in [10 273] ms
+29-Jun-2020 11:10:05.226 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Jun-2020 11:10:05.242 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+29-Jun-2020 11:10:05.250 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [19 594] milliseconds
+29-Jun-2020 11:21:01.017 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/george/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+29-Jun-2020 11:21:01.369 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Jun-2020 11:21:01.407 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+29-Jun-2020 11:21:01.411 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [811] milliseconds
+29-Jun-2020 11:21:01.504 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Jun-2020 11:21:01.505 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.27]
+29-Jun-2020 11:21:01.521 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app]
+29-Jun-2020 11:21:11.260 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app] has finished in [9 739] ms
+29-Jun-2020 11:21:11.261 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app-core]
+29-Jun-2020 11:21:20.878 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/george/StudioProjects/sales/deploy/tomcat/webapps/app-core] has finished in [9 616] ms
+29-Jun-2020 11:21:20.882 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Jun-2020 11:21:20.896 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+29-Jun-2020 11:21:20.900 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [19 486] milliseconds
+29-Jun-2020 11:36:27.918 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/george/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+29-Jun-2020 11:36:28.322 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Jun-2020 11:36:28.362 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+29-Jun-2020 11:36:28.366 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [777] milliseconds
+29-Jun-2020 11:36:28.402 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Jun-2020 11:36:28.403 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.27]
+29-Jun-2020 11:36:28.420 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/george/StudioProjects/haulmont_firstTask/deploy/tomcat/webapps/app]
+29-Jun-2020 11:36:39.037 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/george/StudioProjects/haulmont_firstTask/deploy/tomcat/webapps/app] has finished in [10 617] ms
+29-Jun-2020 11:36:39.038 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [/Users/george/StudioProjects/haulmont_firstTask/deploy/tomcat/webapps/app-core]
+29-Jun-2020 11:36:50.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/george/StudioProjects/haulmont_firstTask/deploy/tomcat/webapps/app-core] has finished in [11 599] ms
+29-Jun-2020 11:36:50.646 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Jun-2020 11:36:50.663 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+29-Jun-2020 11:36:50.668 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [22 300] milliseconds

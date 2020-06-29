@@ -1,0 +1,50 @@
+Performance Statistics   2020-06-29 11:09:00 - 2020-06-29 11:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,7           0           2         0,6          14
+Messages.searchClasspath                                 0,3           0          11         1,4         120
+Messages.searchFiles                                     0,2           0          18         1,6         120
+Metadata.replaceExtendedMetaClasses                      2,0           2           2         0,0           1
+WebJARs                                                 12,0          12          12         0,0           1
+
+Performance Statistics   2020-06-29 11:21:00 - 2020-06-29 11:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,1           0           2         0,6          19
+Messages.searchClasspath                                 0,1           0          15         0,7         634
+Messages.searchFiles                                     0,0           0          20         0,8         634
+Metadata.replaceExtendedMetaClasses                      2,5           2           3         0,5           2
+ViewRepository.init.ViewRepositoryClientImpl            15,0          15          15         0,0           1
+ViewRepository.init.ViewRepositoryImpl                  16,0          16          16         0,0           1
+WebJARs                                                 13,0          13          13         0,0           1
+
+Performance Statistics   2020-06-29 11:22:00 - 2020-06-29 11:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           5
+Messages.searchClasspath                                 0,0           0           0         0,0          66
+Messages.searchFiles                                     0,0           0           0         0,0          66
+
+Performance Statistics   2020-06-29 11:23:00 - 2020-06-29 11:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           1
+
+Performance Statistics   2020-06-29 11:24:00 - 2020-06-29 11:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           2
+
+Performance Statistics   2020-06-29 11:25:00 - 2020-06-29 11:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                0,0           0           0         0,0           4
+
+Performance Statistics   2020-06-29 11:26:00 - 2020-06-29 11:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-06-29 11:27:00 - 2020-06-29 11:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2020-06-29 11:36:00 - 2020-06-29 11:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+LoadClass                                                1,2           0           3         0,7          14
+Messages.searchClasspath                                 0,4           0          16         1,7         144
+Messages.searchFiles                                     0,2           0          21         1,8         144
+Metadata.replaceExtendedMetaClasses                      2,0           2           2         0,0           2
+WebJARs                                                 23,0          23          23         0,0           1
+
